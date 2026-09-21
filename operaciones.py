@@ -5,7 +5,7 @@ Cada integrante del equipo tiene asignada una función específica.
 
 def sumar(a, b):
     # TODO: Estudiante 2
-    pass
+    return a+b
 
 def restar(a, b):
     # TODO: Estudiante 3
