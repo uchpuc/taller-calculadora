@@ -9,7 +9,7 @@ def sumar(a, b):
 
 def restar(a, b):
     # TODO: Estudiante 3
-    pass
+    return a-b
 
 def multiplicar(a, b):
     # TODO: Estudiante 4
